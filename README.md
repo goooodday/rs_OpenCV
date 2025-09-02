@@ -6,6 +6,7 @@ A demo project using Rust and OpenCV to display live webcam video and record it 
 
 - Displays live video from the default webcam
 - Press 'r' to start/stop recording (shows "RECORDING" overlay while recording)
+- Press 's' to save a screenshot of the current frame as a PNG file
 - Press 'q' to quit the application
 - Saves recorded video as an mp4 file (filename includes a timestamp)
 
@@ -20,6 +21,7 @@ A demo project using Rust and OpenCV to display live webcam video and record it 
 
 3. Follow the on-screen instructions:
    - Press `r` to start/stop recording
+   - Press `s` to save a screenshot (PNG)
    - Press `q` to quit
 
 ## Dependencies
